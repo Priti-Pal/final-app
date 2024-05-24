@@ -1,0 +1,70 @@
+.home-page {
+font-family: Arial, sans-serif;
+background-image: url("Z:\college_project\src\cancerimg3.avif");
+background-color: rgb(42, 165, 81);
+margin: 0;
+padding: 0;
+background-size: cover;
+background-repeat: no-repeat;
+min-height: 72vh;
+}
+.home-page {
+  padding: 20px;
+  }
+
+.heading{
+  font-size: 45px;
+  width: 600px;
+  letter-spacing: 0.5px;
+  height: 85px;
+  margin-left: 20px;
+  margin-top: 0px;
+}
+.heading span{
+  color: rgb(105, 30, 176);
+  font-size: 70px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+  margin-left:20px;
+  height:2px;
+  font-weight: 500;
+  letter-spacing: .5px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+}
+.features ul{
+  line-height: 25px;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.features h2{
+  letter-spacing: .5px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 35px;
+  width: 50px;
+  height: 20px;
+}
+.right_section{
+  height: 30%;
+  width: 100%;
+  
+
+}
+.right{
+ width: 65%;
+ float: right;
+ height: 100%;
+ margin-top: -580px;
+ /* border: 2px solid red; */
+}
+.Bcancer{
+  height: 580px;
+  width: 800px;
+}
+.features {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+

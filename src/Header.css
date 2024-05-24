@@ -1,0 +1,55 @@
+
+.app-header {
+  display: flex;
+  background-color: #222831;
+  left: 0;
+  top: 0;
+}
+ button{
+  font-size: 17px;
+  margin-left: 1100px;
+ padding: 10px;
+ margin: 20px;
+}
+.login-btn{
+  border: none;
+  background: none;
+  margin-left: 1100px;
+  padding: 5px 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 1px;
+  background-color:#76ABAE;
+  text-decoration: none;
+  color: #000;
+  cursor: pointer;
+  border-style: none;
+  border-radius: 4px;
+  font-weight: 600;
+  letter-spacing: .5px;
+}
+
+.logo{
+  width: 35px;
+  height: 35px;
+  margin-top:27px;
+  margin-left: 20px;
+  }
+   span{
+    color:#76ABAE;
+    font-size: 35px;
+    font-family:cursive;
+  }
+
+/* .login-btn{
+  margin-left: 1100px;
+  padding: 5px 20px;
+  
+ 
+  } */
+  h3{
+    font-size: 18px;
+    letter-spacing:.5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+  }

@@ -1,0 +1,9 @@
+.footer {
+  height: 60px;
+  background-color: #222831;
+  color: #fff;
+  padding: 3px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: auto;
+  text-align: center;
+}
